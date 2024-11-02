@@ -1,0 +1,17 @@
+{
+  "name": "node_mongodb",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "app",
+    "node",
+    "mongodb"
+  ],
+  "author": "ananya",
+  "license": "ISC"
+}
